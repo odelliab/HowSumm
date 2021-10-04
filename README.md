@@ -1,4 +1,4 @@
-[Contact Us for accessing the TweetSum Dataset](mailto:odelliab@il.ibm.com)
+[Contact Us for accessing the HowSumm Dataset](mailto:odelliab@il.ibm.com)
 
 # HowSumm
 
