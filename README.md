@@ -38,13 +38,6 @@ A HowSumm-Method entry (line) has the following format:
 - **steps** : a list of step titles comprising the given method
 - **sources** : a list of archived urls of references for the given method
 - **categories** : the list of categories of the wikiHow article.
-	
- 
-## HowSumm entry sample
-
-```
-
-```
 
 ## License
 Dataset released under the CDLA-Sharing license https://cdla.io/sharing-1-0/
