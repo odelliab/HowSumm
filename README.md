@@ -22,22 +22,22 @@ HowSumm is released with a partition in Train/Test/Valid files.
 Each file is in [JSON Lines format](https://jsonlines.org/).
 
 A HowSumm-Step entry (line) has the following format:
-	- **url** : wikiHow article's url
-	- **title** : wikiHow article's title
-	- **target-summary** : summary extracted from wikiHow article (step text) 
-	- **method** : corresponding method name 
-	- **step** : step title
-	- **sources** : a list of archived urls of references for the given step
-	- **categories** : the list of categories of the wikiHow article
+- **url** : wikiHow article's url
+- **title** : wikiHow article's title
+- **target-summary** : summary extracted from wikiHow article (step text) 
+- **method** : corresponding method name 
+- **step** : step title
+- **sources** : a list of archived urls of references for the given step
+- **categories** : the list of categories of the wikiHow article
  
 A HowSumm-Method entry (line) has the following format:
-	- **url** : wikiHow article's url
-	- **title** : wikiHow article's title
-	- **target-summary** : summary extracted from wikiHow article (method text) 
-	- **method** : method title 
-	- **steps** : a list of step titles comprising the given method
-	- **sources** : a list of archived urls of references for the given method
-	- **categories** : the list of categories of the wikiHow article.
+- **url** : wikiHow article's url
+- **title** : wikiHow article's title
+- **target-summary** : summary extracted from wikiHow article (method text) 
+- **method** : method title 
+- **steps** : a list of step titles comprising the given method
+- **sources** : a list of archived urls of references for the given method
+- **categories** : the list of categories of the wikiHow article.
 	
  
 ## HowSumm entry sample
