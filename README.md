@@ -8,13 +8,7 @@ It is focused on summarization of various sources to create HowTo guides. It is 
 HowSumm is partitioned into HowSumm-Step where target summary is relatively short (avg. 90  words) and HowSumm-Method where target summary is a concatenation of several steps an therefore longer (avg. 500 words). 
 HowSumm-Method and HowSumm-Step contain 11,121 and 84348 instances, respectively. 
 
-
-If you use this dataset in your work, please cite our paper:
-
-@inproceedings{,
-    title = "....",
-    
-}
+For more information regarding the dataset derivation and characteristics as well as various models results on this dataset please see our paper [here]().
 
 ## HowSumm format
 
@@ -38,6 +32,14 @@ A HowSumm-Method entry (line) has the following format:
 - **steps** : a list of step titles comprising the given method
 - **sources** : a list of archived urls of references for the given method
 - **categories** : the list of categories of the wikiHow article.
+
+# Citation
+If you use this dataset in your work, please cite our paper:
+
+@inproceedings{,
+    title = "....",
+    
+}
 
 ## License
 Dataset released under the CDLA-Sharing license https://cdla.io/sharing-1-0/
