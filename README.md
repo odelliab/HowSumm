@@ -1,6 +1,6 @@
-[Contact Us for accessing the HowSumm Dataset](mailto:odelliab@il.ibm.com)
+[Contact Us for accessing the HowSumm Dataset](mailto:odelliab@il.ibm.com) (The dataset itself will be posted after ACL2022, May 27 2022)
 
-# HowSumm
+# HowSumm dataset
 
 HowSumm is a large-scale Query-focused multi-document summarization dataset.
 It is focused on summarization of various sources to create HowTo guides. It is derived from [wikiHow](https://www.wikihow.com/) articles.
