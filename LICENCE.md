@@ -1,6 +1,6 @@
 odelliab/HowSumm is licensed under the **Creative Commons Attribution Non Commercial Share Alike 3.0 (CC BY-NC-SA 3.0)**.
 
-##CC BY-NC-SA:## 
+
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
 CC BY-NC-SA includes the following elements:
 - **BY**  – Credit must be given to the creator
