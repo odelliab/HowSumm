@@ -42,7 +42,7 @@ If you use this dataset in your work, please cite our paper:
 }
 
 ## License
-Dataset released under the CC BY-NC-SA 3.0 License license https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Dataset released under the CC BY-NC-SA 3.0 license https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 
 ## Disclaimer
 IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
