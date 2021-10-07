@@ -31,7 +31,14 @@ A HowSumm-Method entry (line) has the following format:
 - **sources** : a list of archived urls of references for the given method
 - **categories** : the list of categories of the wikiHow article.
 
-# Citation
+## Acqiuring the data
+The text files containing the data reside under data folder. 
+You can either download the data files one by one directly from GitHub, or clone this entire repository. 
+Please note that since training files are large, your local repository will contain only the links to these files. 
+In order to pull the files themselves, you should use [git large file storage](https://git-lfs.github.com).
+
+
+## Citation
 If you use this dataset in your work, please cite our paper:
 
 @inproceedings{,
