@@ -1,5 +1,3 @@
-[Contact Us for accessing the HowSumm Dataset](mailto:odelliab@il.ibm.com) 
-
 # HowSumm dataset
 
 HowSumm is a large-scale Query-focused multi-document summarization dataset.
