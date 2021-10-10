@@ -6,7 +6,7 @@ It is focused on summarization of various sources to create HowTo guides. It is 
 HowSumm is partitioned into HowSumm-Step where target summary is relatively short (avg. 90  words) and HowSumm-Method where target summary is a concatenation of several steps an therefore longer (avg. 500 words). 
 HowSumm-Method and HowSumm-Step contain 11,121 and 84348 instances, respectively. 
 
-For more information regarding the dataset derivation and characteristics as well as various models results on this dataset please see our paper [here]().
+For more information regarding the dataset derivation and characteristics as well as various models results on this dataset please see our paper [here](https://arxiv.org/abs/2110.03179).
 
 ## HowSumm format
 
@@ -41,9 +41,13 @@ In order to pull the files themselves, you should use [git large file storage](h
 ## Citation
 If you use this dataset in your work, please cite our paper:
 
-@inproceedings{,
-    title = "....",
-    
+@misc{boni2021howsumm,
+      title={HowSumm: A Multi-Document Summarization Dataset Derived from WikiHow Articles}, 
+      author={Odellia Boni and Guy Feigenblat and Guy Lev and Michal Shmueli-Scheuer and Benjamin Sznajder and David Konopnicki},
+      year={2021},
+      eprint={2110.03179},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 
 ## License
